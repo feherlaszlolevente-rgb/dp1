@@ -18,3 +18,16 @@ SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is .\log02.txt
 ]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
+PS>git . add
+git: '.' is not a git command. See 'git --help'.
+
+The most similar commands are
+        am
+        gc
+        mv
+        p4
+        rm
+]633;D;1]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
